@@ -18,6 +18,8 @@ draw.io 차트는 하나씩 그려 줘야만 하긴 한데 설치는 간단히 �
 
 다이어그램 종류에 따라서 https://plantuml.com/ko/sequence-diagram 사이트에 예시가 잘 나와있다. 
 
-그리고 또 내가 문제를 만들었는데 vs code에 있는 설정을 뭔가 건드렸더니 원래 떠 있던 아이콘들이 사라져서 너무 불편해져버렸다...ㅜㅠ 이런 거 찾는데 또 1시간씩 쓸 생각을 하니 너무 머리가 아프고 절망적이다...
+그리고 또 내가 문제를 만들었는데 vs code에 있는 설정을 뭔가 건드렸더니 원래 떠 있던 아이콘들이 사라져서 너무 불편해져버렸다...ㅜㅠ 이런 거 찾는데 또 1시간씩 쓸 생각을 하니 너무 머리가 아프고 절망적이다...  https://velog.io/@shn0322/VS-code-python-%EC%8B%A4%ED%96%89-%EB%B2%84%ED%8A%BC-%EC%82%AC%EB%9D%BC%EC%A7%90-%EB%AC%B8%EC%A0%9C  ai 도움으로 거의 30분만에? 찾긴 했다?! 다행인가?! ㅜㅠ  시간 마다 해야 할 과업들은 요원하네..ㅜㅠ
 여튼 alt+d 를 하면 여튼 preview current diagram 을 볼 수 있음. 
 https://www.youtube.com/watch?v=e6HMqKnJcdg 채널에서도 설명 해 줌.
+
+다이어그램 추천 사이트: https://www.codesee.io/learning-center/code-visualization#uml
