@@ -1,1 +1,19 @@
-ㅇ
+3강(Ch 1-3)
+binary classification(2진 분류법)
+
+# bream_length, bream_weight 리스트를 2개 정의해 주고(데이터 학습)
+plt.scatter(bream_length, bream_weight)
+#plot 을 plt로 줄여서 관습아닌 관습으로서 사용함. 
+plt.scatter(smelt_length, smelt_weight) #산점도로 그려주는 함수
+plt.xlabel("length")
+plt.ylabel("weight")
+plt.show()
+
+length = bream_length+smelt_length  #리스트 도미 35마리, 빙어 14마리 합치기
+weight = bream_weight+smelt_weight  #리스트 빙어 35마리, 빙어 14마리 합치기
+
+사이킷런이 기대하는 데이터 형태는 각 행마다 각 생선의 [길이, 무게] 가 나오는 방식. 만약 49마리라면 총 49행까지 있게 됨. 
+
+
+# kn.predict 통해서 전체 데이터의 갯수인 49개를 참조해서 판단을 하게 되면 무조건 도미로 나오기에 적절한 근접갯수를 골라서 확인해봐야 한다. 
+
